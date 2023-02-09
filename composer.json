@@ -1,0 +1,13 @@
+{
+  "name": "damiwork/php-apimanager",
+  "description": "ApiManager",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ApiManager\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
